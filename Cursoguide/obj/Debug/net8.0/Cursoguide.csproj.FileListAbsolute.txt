@@ -1,0 +1,7 @@
+C:\Users\Aluno\Documents\cursoguide\Cursoguide\obj\Debug\net8.0\Cursoguide.csproj.AssemblyReference.cache
+C:\Users\Aluno\Documents\cursoguide\Cursoguide\obj\Debug\net8.0\Cursoguide.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aluno\Documents\cursoguide\Cursoguide\obj\Debug\net8.0\Cursoguide.AssemblyInfoInputs.cache
+C:\Users\Aluno\Documents\cursoguide\Cursoguide\obj\Debug\net8.0\Cursoguide.AssemblyInfo.cs
+C:\Users\Aluno\Documents\cursoguide\Cursoguide\obj\Debug\net8.0\Cursoguide.csproj.CoreCompileInputs.cache
+C:\Users\Aluno\Documents\cursoguide\Cursoguide\obj\Debug\net8.0\Cursoguide.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Aluno\Documents\cursoguide\Cursoguide\obj\Debug\net8.0\Cursoguide.MvcApplicationPartsAssemblyInfo.cache
